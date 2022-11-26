@@ -2,7 +2,7 @@
 
 This repository provides an Encoder-Decoder model to generate captions for input videos.
 
-The ability to be applied for numerous applications mark Video Captioning's importance. For example, it can be applied to help search videos across web pages in an efficient manner and it can also cluster the videos having a large degree of similarity in terms of their respective generated captions.
+The ability to be applied for numerous applications mark ***Video Captioning***'s importance. For example, it can be applied to help search videos across web pages in an efficient manner and it can also cluster the videos having a large degree of similarity in terms of their respective generated captions.
 
 ## Requirements
 - `Tensorflow`
@@ -13,17 +13,17 @@ The ability to be applied for numerous applications mark Video Captioning's impo
 
 ## Usage
 ### Data
-- The MSVD dataset developed by Microsoft can be downloaded from [***here***](https://www.dropbox.com/sh/whatkfg5mr4dr63/AACKCO3LwSsHK4_GOmHn4oyYa?dl=0).
+- The ***MSVD*** dataset developed by Microsoft can be downloaded from [***here***](https://www.dropbox.com/sh/whatkfg5mr4dr63/AACKCO3LwSsHK4_GOmHn4oyYa?dl=0).
 - This data set contains 1450 short YouTube clips that have been manually labeled for training and 100 videos for testing.
 - Each video has been assigned a unique ID and each ID has about 15–20 captions.
 ### Training and Testing
 - To extract features for frames of every single input videos using pre-Trained VGG model, run `Extract_Features_Using_VGG.py`.
 - To train the developed model, run `training_model.py`.
-- To use the trained Video Captioning model for inference, run `predict_model.py`.
-- To use the trained model for real-time Video-Caption generator, run `Video_Captioning.py`.
+- To use the trained ***Video Captioning*** model for inference, run `predict_model.py`.
+- To use the trained model for ***real-time Video-Caption generation***, run `Video_Captioning.py`.
 
 ## Results
-Following are a few results of the developed Video Captioning approach on test videos:-
+Following are a few results of the developed ***Video Captioning*** approach on test videos:-
 | Test Video        | Generated Caption           |
 | ------------------- |:----------------------------:|
 | ![alt text](https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/0lh_UWF9ZP4_62_69.gif) | a woman is mixing some food |
