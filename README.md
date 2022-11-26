@@ -17,7 +17,7 @@ The ability to be applied for numerous applications mark ***Video Captioning***'
 - This data set contains 1450 short YouTube clips that have been manually labeled for training and 100 videos for testing.
 - Each video has been assigned a unique ID and each ID has about 15–20 captions.
 ### Training and Testing
-- To extract features for frames of every single input videos using pre-Trained VGG model, run `Extract_Features_Using_VGG.py`.
+- To extract features for frames of every single input videos using pre-Trained VGG16 model, run `Extract_Features_Using_VGG.py`.
 - To train the developed model, run `training_model.py`.
 - To use the trained ***Video Captioning*** model for inference, run `predict_model.py`.
 - To use the trained model for ***real-time Video-Caption generation***, run `Video_Captioning.py`.
