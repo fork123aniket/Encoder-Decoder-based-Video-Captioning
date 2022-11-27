@@ -27,7 +27,7 @@ Following are a few results of the developed ***Video Captioning*** approach on 
 | Test Video        | Generated Caption           |
 | ------------------- |:----------------------------:|
 | ![alt text](https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/0lh_UWF9ZP4_62_69.gif) | a woman is mixing some food |
-| <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/7NNg0_n-bS8_21_30.gif" width="250"> | a man is performing on a stage |
+| <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/7NNg0_n-bS8_21_30.gif" width="300"> | a man is performing on a stage |
 | ![alt text](https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/ezgif-4-989de822710c.gif) | a man is mixing ingredients in a bowl |
 | ![alt text](https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/Je3V7U5Ctj4_569_576.gif) | a man is spreading a tortilla |
 | ![alt text](https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/qeKX-N1nKiM_0_5.gif) | a woman is seasoning some food |
