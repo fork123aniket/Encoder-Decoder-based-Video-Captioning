@@ -1,6 +1,6 @@
 # Encoder-Decoder-based Video Captioning
 
-This repository provides an Encoder-Decoder model to generate captions for input videos.
+This repository provides an ***Encoder-Decoder Sequence-to-Sequence*** model to generate captions for input videos. Moreover, ***pre-Trained VGG16 model*** is being used to extract features for every frame of the video.
 
 The ability to be applied for numerous applications mark ***Video Captioning***'s importance. For example, it can be applied to help search videos across web pages in an efficient manner and it can also cluster the videos having a large degree of similarity in terms of their respective generated captions.
 
